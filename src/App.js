@@ -14,7 +14,7 @@ function App() {
     <section id="main">
         <header id="title">
             <h1>Safaetul ahasan</h1>
-            <span className="subtitle">Software Engineer | Team Lead</span>
+            <span className="subtitle">Senior Software Engineer | Team Lead</span>
         </header>
         <section className="main-block">
             <h2>
@@ -30,17 +30,20 @@ function App() {
                 </div>
                 <div className="details">
                     <header>
-                        <h3>Software Engineer</h3>
-                        <span className="place">Live Media Limited</span>
+                        <h3>Senior Software Engineer</h3>
+                        <span className="place">Live Technologies Limited</span>
                         <span className="location">Dhaka, Bangladesh</span>
                     </header>
                     <div>
                         <ul>
                             <li>Designing APIs and Building Microservices.</li>
-                            <li>Developing server-side applications with nodeJS, Laravel and Django.</li>
-                            <li>Designing and developing highly available backend system and scale them to server millions of users.</li>
+                            <li>Developing server-side applications with NodeJS, Laravel and NextJS
+                                and client-side applications using ReactJS.</li>
+                            <li>Designing and developing highly available backend system and scale them
+                                to server millions of users.</li>
                             <li>Optimize Database for high availability and better query performance.</li>
-                            <li>Helping(Lead) fellow developers to implement services and following a good standard.</li>
+                            <li>Lead fellow developers to implement services and follow a
+                                good standard.</li>
                         </ul>
                     </div>
                 </div>
@@ -64,7 +67,7 @@ function App() {
                         <ul>
                             <li>Developed and enhanced customer-facing web applications using the Laravel framework on web logic.</li>
                             <li>Oversee a team of five software developers and lead weekly discussions to brainstorm ideas in software development and to track changes made in existing programs.</li>
-                            <li>Manage and lead four software developers.</li>
+                            <li>Manage and lead Five software developers.</li>
                         </ul>
                     </div>
                 </div>
@@ -115,13 +118,13 @@ function App() {
                     </header>
                     <div className="no-top-margin">
                         <ul>
-                            <li>PHP(Laravel),Node.js(ExpressJs),Python(Django)</li>
-                            <li>Reactjs,Vuejs.</li>
+                            <li>PHP(Laravel),Node.js(ExpressJs,NestJs),Nextjs,TypeScript.</li>
+                            <li>Reactjs,VueJs.</li>
                             <li>API Integration like Facebook, Google, SMS and Payment Gateway and Restful API.</li>
                             <li>Microservices, REST Api, PubNub, GoogIeAPls, Git, Slack and Bitbucket.</li>
                             <li>MySQL, Postgresql and Mongodb, Couchdb.</li>
-                            <li>AWS (EC2, S3, RDS), WebRTC.</li>
-                            <li>DevOps (Apache, Nginx, Docker, Kubernetes, CI/CD, etc).</li>
+                            <li>AWS (EC2, S3, RDS, SQS), Socket.io, WebRTC, RabitMQ.</li>
+                            <li>DevOps (Apache, Nginx, Docker, CI/CD, etc)</li>
                         </ul>
                         
                     </div>
@@ -142,7 +145,7 @@ function App() {
                     <div className="no-top-margin">
                         <ul>
                             <li>Javascript, Laravel, Node.JS, MySQL</li>
-                            <li>Microservices, REST, Payment Gateway</li>
+                            <li>Microservices, REST API, Payment Gateway</li>
                             <li>Backend Infrastructure And Automation</li>
                         </ul>
                     </div>
@@ -186,7 +189,7 @@ function App() {
                 <div className="details">
                     <div>
                         <header>
-                            <h3>B.Sc in Software Engineering</h3>
+                            <h3>B.Sc in Computer Science and Engineering</h3>
                             <span class="place">International Islamic University,Chittagong</span>
                             <span class="location">Chittagong, Bangladesh</span>
                         </header>
@@ -260,7 +263,7 @@ function App() {
                 <li>Sex: Male</li>
                 <li>Religion: Islam</li>
                 <li>Nationality: Bangladeshi (By Birth)</li>
-                <li>Marital Status: Unmarried</li>
+                <li>Marital Status: Married</li>
             </ul>
         </div>
 
